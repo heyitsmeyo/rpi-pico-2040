@@ -18,3 +18,9 @@ Pick the bootloader_rest.uf2 file and run the command :
 A tip : 
 
 Always make sure you include the [stdio_usb.h](https://github.com/raspberrypi/pico-sdk/blob/master/src/rp2_common/pico_stdio_usb/include/pico]) library in your projects  so you won't lose usb connection with the raspberry pi pico
+
+
+
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
